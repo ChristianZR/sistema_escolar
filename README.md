@@ -1,7 +1,7 @@
 ![Bee Framework](https://raw.githubusercontent.com/Moxtrip69/Bee-Framework/master/assets/images/bee_logo.png)
 # Bee-Framework
 Mini framework desarrollado por el equipo de Joystick SA de CV en México.
-Puedes hacer uso de el para tus proyectos personales o comerciales, es ligero y fácil de implementar para proyectos tanto pequeños como aquellos que requieren escalabilidad y visión a futuro.
+Puedes hacer uso de el para tus proyectos personales o comerciales, es ligero y fácil de implementar para proyectos tanto pequeños como aquellos que requieren escalabilidad y visión a futuro asdasdasdsad.
 
 ## Changelog
 ### v 1.1.3
